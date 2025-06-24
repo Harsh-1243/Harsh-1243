@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh-1243?tab=repositories](https://github.com/Harsh-1243?tab=repositories)
 
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **harshpanchal1243@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
